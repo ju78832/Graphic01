@@ -1,0 +1,46 @@
+{
+    "card":[
+        {"id": 1,
+        "title":"Sample",
+    "image": "/photo/epensive.jpg",
+    "discription": "kduei ghgei eikj fiehg ye8 hfid",
+    "isFeatured": true,
+    "slug": "kdudn"
+},
+    {"id": 2,
+    "title": "Sample",
+    "image": "/photo/makingpizza.jpg",
+    "discription": "kduei ghgei eikj fiehg ye8 hfid",
+    "isFeatured": true,
+    "slug": "kdudn"
+    },
+    {"id": 3,
+    "title": "Sample",
+    "image": "/photo/margherita.jpg",
+    "discription": "kduei ghgei eikj fiehg ye8 hfid",
+    "isFeatured":true,
+    "slug": "kdudn"
+    },
+    {"id": 4,
+    "title":"Sample",
+    "image": "/photo/pedrotechspecial.jpg",
+    "discription": "kduei ghgei eikj fiehg ye8 hfid",
+    "isFeatured":true,
+    "slug": "kdudn"
+    },
+    {"id": 5,
+    "title":"Sample",
+    "image": "/photo/pepperoni.jpg",
+    "discription": "kduei ghgei eikj fiehg ye8 hfid",
+    "isFeatured":true,
+    "slug": "kdudn"
+    },
+    {"id": 6,
+    "title":"Sample",
+    "image": "/photo/vegan.jpg",
+    "discription": "kduei ghgei eikj fiehg ye8 hfid",
+    "isFeatured":true,
+    "slug": "kdudn"
+    }
+    ]
+}
